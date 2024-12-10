@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-Disqus（http://disqus.com/by/okk416）
-  disqus_username: okk416
+# Disqus（http://disqus.com/by/okk416）
+# disqus_username: okk416
 
 # Gitalk
 gitalk:
