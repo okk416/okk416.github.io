@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23li0luTk2PrcUU6QL                            #生成的clientID
   clientSecret: 6774c1487368db65a865895573d2dd79dc441794    #生成的clientSecret
-  repo: okk416/okk416.github.io    #仓库名称
+  repo: okk416.github.io    #仓库名称
   owner: okk416    #github用户名
   admin: okk416
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
