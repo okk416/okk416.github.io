@@ -99,16 +99,19 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "google",
+        href: "https://www.google.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "baidu",
+        href: "https://www.baidu.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "360",
+        href: "https://www.so.com/"
     }
 ]
