@@ -113,5 +113,14 @@ friends: [
     },{
         title: "360",
         href: "https://www.so.com/"
+    },{
+        title: "bing",
+        href: "https://www.bing.com/"
+    },{
+        title: "pinterest",
+        href: "https://pinterest.com/"
+    },{
+        title: "facebook",
+        href: "https://www.facebook.com/"
     }
 ]
